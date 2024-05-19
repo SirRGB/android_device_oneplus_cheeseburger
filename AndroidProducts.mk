@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cheeseburger.mk
-
-COMMON_LUNCH_CHOICES := \
-    cheeseburger-user \
-    cheeseburger-userdebug \
-    cheeseburger-eng
